@@ -7,7 +7,7 @@
 
 <h4>LinkedIn Profile --</h4>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Yogesh-orange?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayushrathore887/)](https://www.linkedin.com/in/ayushrathore887/)  
+[![Linkedin Badge](https://img.shields.io/badge/-Ayush Rathor-orange?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayushrathore887/)](https://www.linkedin.com/in/ayushrathore887/)  
 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
