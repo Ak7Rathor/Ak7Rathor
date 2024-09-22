@@ -7,12 +7,12 @@
 
 <h4>LinkedIn Profile --</h4>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Yogesh-orange?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suraj-singh-5092/)](https://www.linkedin.com/in/thedeveloperyug/)  
+[![Linkedin Badge](https://img.shields.io/badge/-Ayush Rathor-orange?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayushrathore887/)](https://www.linkedin.com/in/ayushrathore887/)
 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=thedeveloperyug&column=7"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Ak7Rathor&column=7"/>
   </a>
 </div>
 
@@ -55,11 +55,11 @@
  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-<!-- <img alt="GitHub followers" src="https://img.shields.io/github/followers/thedeveloperyug?style=social"> -->
+<!-- <img alt="GitHub followers" src="https://img.shields.io/github/followers/Ak7Rathor?style=social"> -->
 
 <div><h2>LIVE PROFILE VISITORS - </h2></div> 
 
-![Visitor Count](https://profile-counter.glitch.me/thedeveloperyug/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Ak7Rathor/count.svg)
 
 
 
@@ -68,20 +68,20 @@
   
 
     
-![](https://activity-graph.herokuapp.com/graph?username=thedeveloperyug&theme=react-dark&area=true)     
+![](https://activity-graph.herokuapp.com/graph?username=Ak7Rathor&theme=react-dark&area=true)     
     
 
   
-   <div><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thedeveloperyug&" alt="thedeveloperyug" /></p>   </div> 
+   <div><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ak7Rathor&" alt="Ak7Rathor" /></p>   </div> 
      <div>
-     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thedeveloperyug&show_icons=true&locale=en&layout=compact" alt="thedeveloperyug" />
+     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ak7Rathor&show_icons=true&locale=en&layout=compact" alt="Ak7Rathor" />
      </div>
 
 
   
 </div>
 <!--
-**thedeveloperyug/thedeveloperyug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ak7Rathor/Ak7Rathor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
